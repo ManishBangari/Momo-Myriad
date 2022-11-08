@@ -1,0 +1,11 @@
+table,
+tr,
+th,
+td,
+caption {
+  background-color: azure;
+  border: 1px solid #000;
+  font-family: 'Times New Roman', Times, serif;
+  border-collapse: collapse;
+  padding: 0.5rem;
+}
